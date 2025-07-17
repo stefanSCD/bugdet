@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NVTRBgC6abE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.Application\\SmartTracking.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\x\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.302\\microsoft.net.sdk.compilers.toolset.9.0.302.nupkg.sha512"
+  ],
+  "logs": []
+}

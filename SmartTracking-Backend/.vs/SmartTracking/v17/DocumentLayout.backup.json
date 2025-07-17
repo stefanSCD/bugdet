@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9056CC4B-F918-47FA-BC76-0BDE9A3FF375}|SmartTracking.API\\SmartTracking.API.csproj|c:\\users\\x\\desktop\\future\\smarttracking-backend\\smarttracking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9056CC4B-F918-47FA-BC76-0BDE9A3FF375}|SmartTracking.API\\SmartTracking.API.csproj|solutionrelative:smarttracking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9056CC4B-F918-47FA-BC76-0BDE9A3FF375}|SmartTracking.API\\SmartTracking.API.csproj|c:\\users\\x\\desktop\\future\\smarttracking-backend\\smarttracking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9056CC4B-F918-47FA-BC76-0BDE9A3FF375}|SmartTracking.API\\SmartTracking.API.csproj|solutionrelative:smarttracking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35602AFB-4946-4AC4-8CD7-ECF969FCDF0E}|SmartTracking.Application\\SmartTracking.Application.csproj|c:\\users\\x\\desktop\\future\\smarttracking-backend\\smarttracking.application\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35602AFB-4946-4AC4-8CD7-ECF969FCDF0E}|SmartTracking.Application\\SmartTracking.Application.csproj|solutionrelative:smarttracking.application\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9056CC4B-F918-47FA-BC76-0BDE9A3FF375}|SmartTracking.API\\SmartTracking.API.csproj|c:\\users\\x\\desktop\\future\\smarttracking-backend\\smarttracking.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9056CC4B-F918-47FA-BC76-0BDE9A3FF375}|SmartTracking.API\\SmartTracking.API.csproj|solutionrelative:smarttracking.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SmartTracking.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SmartTracking.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:29:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.Application\\DTOs\\User\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "SmartTracking.Application\\DTOs\\User\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.Application\\DTOs\\User\\CreateUserDto.cs",
+              "RelativeToolTip": "SmartTracking.Application\\DTOs\\User\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:19:39.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartTracking.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartTracking.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:16:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.API\\Program.cs",
+              "RelativeDocumentMoniker": "SmartTracking.API\\Program.cs",
+              "ToolTip": "C:\\Users\\x\\Desktop\\future\\SmartTracking-Backend\\SmartTracking.API\\Program.cs",
+              "RelativeToolTip": "SmartTracking.API\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:51:30.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

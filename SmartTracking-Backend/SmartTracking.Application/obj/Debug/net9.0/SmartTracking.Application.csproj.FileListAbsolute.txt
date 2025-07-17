@@ -1,0 +1,16 @@
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\bin\Debug\net9.0\SmartTracking.Application.deps.json
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\bin\Debug\net9.0\SmartTracking.Application.dll
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\bin\Debug\net9.0\SmartTracking.Application.pdb
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\bin\Debug\net9.0\SmartTracking.Domain.dll
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\bin\Debug\net9.0\SmartTracking.Domain.pdb
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTracking.Application.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTracking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTracking.Application.AssemblyInfoInputs.cache
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTracking.Application.AssemblyInfo.cs
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTracking.Application.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTracking.Application.sourcelink.json
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTra.4B85C09D.Up2Date
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTracking.Application.dll
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\refint\SmartTracking.Application.dll
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\SmartTracking.Application.pdb
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Application\obj\Debug\net9.0\ref\SmartTracking.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\bin\Debug\net9.0\SmartTracking.Domain.deps.json
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\bin\Debug\net9.0\SmartTracking.Domain.dll
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\bin\Debug\net9.0\SmartTracking.Domain.pdb
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\SmartTracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\SmartTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\SmartTracking.Domain.AssemblyInfo.cs
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\SmartTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\SmartTracking.Domain.sourcelink.json
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\SmartTracking.Domain.dll
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\refint\SmartTracking.Domain.dll
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\SmartTracking.Domain.pdb
+C:\Users\x\Desktop\future\SmartTracking-Backend\SmartTracking.Domain\obj\Debug\net9.0\ref\SmartTracking.Domain.dll
